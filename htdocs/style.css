@@ -1,0 +1,54 @@
+/* 
+font-family: 'Scope One', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Bungee', cursive;
+font-family: 'Bungee Shade', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Yatra One', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Open Sans', sans-serif;
+
+colors
+
+#ecffff
+#8a9e9e
+#688282
+263636
+
+#e4e2d7
+#F0EFE9
+
+#CFC2BA
+-
+#826A5B
+*/
+
+html {
+    background-color: #BACFCF;
+}
+
+header>h1,
+article>h1 {
+    font-family: 'Bungee Shade', cursive;
+    color: #688282;
+}
+
+article>section>h1 {
+    font-family: 'Quicksand', sans-serif;
+    color: #826A5B;
+}
+
+#main-container {
+    margin: 0 auto;
+    width: 60em;
+}
+
+main {
+    background-color: #FFFFFF;
+    padding: 1rem;
+    border-left: 0.3rem solid #688282;
+}
+
+header>h1>span {
+    width: 100%;
+}
