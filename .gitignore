@@ -1,0 +1,10 @@
+.DS_Store
+config.ini
+latest-change.txt
+public/*
+*-ck.js
+bower_components/*
+node_modules/*
+source/js/vendor/*
+report/*
+.sass-cache
